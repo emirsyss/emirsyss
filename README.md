@@ -1,1 +1,1 @@
-<h1 class="align">Hello World!</h1>
+<h1 class="center">Hello World!</h1>
